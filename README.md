@@ -1,6 +1,6 @@
 # Overview feign-sample
 
-Feign sample repository.
+A sample project for [OpenFeign](https://github.com/OpenFeign/feign) library.
 
 ## Test it
 
